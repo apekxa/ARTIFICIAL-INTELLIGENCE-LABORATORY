@@ -1,1 +1,13 @@
+1. (a) Write a python program to print the multiplication table for the given number 
+   (b) Write a python program to check whether the given number is prime or not? 
+   (c) Write a python program to find factorial of the given number? 
 
+2. (a) Write a python program to implement List operations (Nested List, Length,Concatenation, Membership, Iteration, Indexing and Slicing) 
+   (b) Write a python program to implement List methods (Add, Append, Extend & Delete). 
+
+3. Write a python program to implement simple Chatbot with minimum 10 conversations.
+
+4. Write a python program to Illustrate Different Set Operations.
+
+5. (a)Write a python program to implement a function that counts the number of times a string(s1) occurs in another string(s2).
+   (b)Write a program to illustrate Dictionary operations([],in,traversal)and methods: keys(),values(),items().
