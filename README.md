@@ -20,6 +20,7 @@ problems , some practice problems are listed here )
 
    
 AI  Problems to be implemented in Python 
+
 1 Implement and Demonstrate Depth First Search Algorithm on Water Jug Problem.
 
 2 Implement and Demonstrate Best First Search Algorithm on any AI problem.
